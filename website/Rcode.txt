@@ -1,0 +1,77 @@
+# The codes have been provided in chunks. Run each chunk separately one after another in Jupyter Notebook in R environment for best output.
+
+library(twitteR)
+setup_twitter_oauth("DmC9SmlXZSTVHUZHlsEOriOHK","arSDUCTSBBkgz2QT3WslMKmIo2wK8IcXvSPVRK35Yn73YXBUpZ",
+"912551396184068096-uTzNTAY36ozI0Gq1x10dq84mUpDAyLm","mKlpTAcT9daHWTGFtiGeD9PpAOIgYDhEwXwQZG4M0XNCm")
+
+item_search <- readline(prompt="Enter an item to search: ")
+search = searchTwitter(item_search, n = 8000) #items_searched = #trump 
+
+search_df = twListToDF(search)
+write.csv(search_df, file = "D:/Spring 2018/CSE 487/R files/trump3.csv",row.names = FALSE, na = "")
+
+head(search_df)
+
+head(search_df$text)
+
+Sys.setlocale('LC_ALL','C') #resolving the encoding problem while converting to dataframe
+search_df <- twListToDF(search)   #conversion to dataframe
+head(search_df)
+head(search_df$text)
+write(search_df$text, file = "trump_tweets3.txt", append = FALSE, sep = "\n")
+
+
+#-----------------------------------THIS IS THE PART THAT SHOULD BE RUN AFTER OBTAINING MAP-REDUCED OUTPUT FROM HADOOP
+mapreduced <- read.csv("mapreduced2.csv",sep=",")
+head(mapreduced)
+
+mapreduced <- setNames(mapreduced,  c("Tag","Freq"))
+head(mapreduced)
+
+unicodeSubsetData <- mapreduced[ grep("<u+", mapreduced$Tag), ]
+unicodeSubsetData <- unicodeSubsetData[ grep("<U+", unicodeSubsetData$Tag)]
+
+mapreduced_new <- setdiff(mapreduced,unicodeSubsetData)  # the new df has most unicode values removed to produce a clear tag cloud
+
+
+# source: http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know#step-1-create-a-text-file
+mapreduced_new <- na.omit(mapreduced_new)
+library('wordcloud')
+library('RColorBrewer')  
+
+set.seed(1234)
+wordcloud(words = mapreduced_new$Tag, freq = mapreduced_new$Freq, min.freq = 2,
+          max.words=200, random.order=FALSE, rot.per=0.35, 
+          colors=brewer.pal(8, "Dark2"))   
+
+
+NewsDataMapReduced <- read.csv("NewsDataMapReduced.csv",sep=",") //the csv file contains the map reduced output of the news articles
+head(NewsDataMapReduced)
+
+NewsDataMapReduced <- setNames(NewsDataMapReduced,  c("Tag","Freq"))
+head(NewsDataMapReduced)
+
+unicodeSubsetData <- NewsDataMapReduced[ grep("<u+", NewsDataMapReduced$Tag), ]
+head(unicodeSubsetData)
+
+NewsDataMapReduced_new <- setdiff(NewsDataMapReduced,unicodeSubsetData)  # for producing a clear tag most unicode values have been removed
+
+NewsDataMapReduced_new <- na.omit(NewsDataMapReduced_new)
+library('wordcloud')
+library('RColorBrewer') 
+
+set.seed(1234)
+wordcloud(words = NewsDataMapReduced_new$Tag, freq = NewsDataMapReduced_new$Freq, min.freq = 1,
+          max.words=200, random.order=FALSE, rot.per=0.35, 
+          colors=brewer.pal(8, "Dark2"))
+
+#---------------------THIS IS THE WORD COOCCURENCE PAIR OUTPUT FROM HADOOP
+Pairsdata = read.csv("PairCooccur1.csv")
+Pairsdata
+
+Pairstop = subset (Pairsdata, Pairsdata$Count > 19000, select=c (Pairs,Count))
+Pairstop
+
+Pairsdata2 = read.csv("PairCooccur2.csv")
+Pairstop2 = subset (Pairsdata2, Pairsdata2$Count > 3000, select=c (Pair,Count))
+Pairstop2

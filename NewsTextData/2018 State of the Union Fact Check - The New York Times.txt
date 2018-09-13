@@ -1,0 +1,814 @@
+Sections
+
+SEARCH
+Skip to content <#site-content>Skip to site index <#site-index>
+<https://www.nytimes.com/>
+Subscribe
+<https://www.nytimes.com/subscriptions/Multiproduct/lp8HYKU.html?campaignId=6W74R&URI=https%3A%2F%2Fwww.nytimes.com%2F2018%2F01%2F30%2Fus%2Fpolitics%2Ffact-check-sotu.html>Log
+In
+<https://myaccount.nytimes.com/auth/login?URI=https%3A%2F%2Fwww.nytimes.com%2F2018%2F01%2F30%2Fus%2Fpolitics%2Ffact-check-sotu.html>
+
+Friday, March 23, 2018
+Subscribe
+<https://www.nytimes.com/subscriptions/Multiproduct/lp8HYKU.html?campaignId=6W74R&URI=http%3A%2F%2Fwww.nytimes.com%2F2018%2F01%2F30%2Fus%2Fpolitics%2Ffact-check-sotu.html>Log
+In
+<https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2018%2F01%2F30%2Fus%2Fpolitics%2Ffact-check-sotu.html>
+
+Advertisement
+
+Politics <https://www.nytimes.com/pages/politics/index.html>
+
+  * //
+    <https://www.facebook.com/dialog/feed?app_id=9869919170&link=https%3A%2F%2Fwww.nytimes.com%2F2018%2F01%2F30%2Fus%2Fpolitics%2Ffact-check-sotu.html&smid=fb-share&name=2018%20State%20of%20the%20Union%20Fact%20Check&redirect_uri=https%3A%2F%2Fwww.facebook.com%2F>
+  * //
+    <https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.nytimes.com%2F2018%2F01%2F30%2Fus%2Fpolitics%2Ffact-check-sotu.html&text=2018%20State%20of%20the%20Union%20Fact%20Check>
+  * //
+    <mailto:?subject=NYTimes.com%3A%202018%20State%20of%20the%20Union%20Fact%20Check&body=From%20The%20New%20York%20Times%3A%0A%0A2018%20State%20of%20the%20Union%20Fact%20Check%0A%0A%20Times%20Reporters%20weigh%20in%20on%20the%20facts%2C%20falsehoods%20and%20statements%20that%20need%20context%20from%20Donald%20Trump's%20first%20State%20of%20the%20Union%0A%0Ahttps%3A%2F%2Fwww.nytimes.com%2F2018%2F01%2F30%2Fus%2Fpolitics%2Ffact-check-sotu.html>
+  * //
+*
+
+Supported by
+
+The trump presidency
+
+
+  2018 State of the Union Fact Check2018 State of the Union Fact Check
+
+Image
+President Trump at The State of the Union on Tuesday night.
+CreditGabriella Demczuk for The New York Times
+
+By The New York Times
+
+Jan. 30, 2018
+
+Reporters from The New York Times checked the facts, falsehoods and
+statements in need of context from President Trump’s first State of the
+Union address. Watch a replay along with real time analysis here
+<https://www.nytimes.com/interactive/2018/01/30/us/politics/sotu-address-live.html>,
+and read an annotated transcript of the speech
+<https://www.nytimes.com/interactive/2018/01/30/us/politics/state-of-the-union-2018-transcript.html>.
+
+
+economy
+
+
+    “Since the election, we have created 2.4 million new jobs, including
+    200,000 new jobs in manufacturing alone.”
+
+
+      *The math is correct, but context matters.*
+
+The economy has added about 169,000 jobs a month
+<https://data.bls.gov/timeseries/CES0000000001?output_view=net_1mth>
+since the 2016 election, but that is somewhat less than the 185,000 jobs
+per month that the economy added over the previous seven years.
+
+/— Binyamin Appelbaum/
+
+economy
+
+
+    “African-American unemployment stands at the lowest rate ever recorded.”
+
+
+      True, but needs context.
+
+It’s true
+<https://www.nytimes.com/2018/01/28/us/politics/trump-jay-z-unemployment-fact-check.html?rref=collection%2Fspotlightcollection%2Ffact-checks&action=click&contentCollection=politics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection>
+that the black unemployment rate in December, 6.8 percent, was the
+lowest recorded, but that is also the culmination of a longer-term
+trend. Moreover, it’s  an open question how much credit a president, especially in his first
+year, can take for the economy.
+
+/— Linda Qiu/
+
+economy
+
+
+    “After years of wage stagnation, we are finally seeing rising wages.”
+
+
+      *False*.
+
+Wages are, in fact, rising — but at a slower rate
+<https://www.frbatlanta.org/chcs/wage-growth-tracker.aspx?panel=1> than
+they were at the end of President Obama’s second term.
+
+/— Jim Tankersley /
+
+health care
+
+
+    “We eliminated an especially cruel tax that fell mostly on Americans
+    making less than $50,000 a year — forcing them to pay tremendous
+    penalties simply because they couldn’t afford government-ordered
+    health plans. We repealed the core of disastrous Obamacare — the
+    individual mandate is now gone.’’
+
+
+      *True, but needs context. *
+
+In the newly passed tax law, Congress eliminated penalties for people
+who go without health insurance, starting in 2019. An estimated
+<https://www.nytimes.com/interactive/2017/11/28/us/politics/obamacare-individual-mandate-penalty-maps.html>
+4.5 percent of taxpayers paid the penalty in 2015, and nearly 60 percent
+<https://www.cbo.gov/system/files/115th-congress-2017-2018/presentation/53310-presentation.pdf>
+of those who did earned less than $50,000 in 2015 — though the Kaiser
+Family Foundation found
+<https://www.kff.org/health-reform/issue-brief/how-many-of-the-uninsured-can-purchase-a-marketplace-plan-for-less-than-their-shared-responsibility-penalty/>
+that a sizable amount of low-income Americans paying the penalty could
+find coverage for less.
+
+People could, in many cases, obtain exemptions from the penalties that
+were indeed a major element of the Affordable Care Act. Other elements
+of the health care law remain intact.
+<https://www.nytimes.com/2017/12/20/us/politics/factcheck-trump-tax-repeal-health-care.html>
+
+/— Robert Pear /
+
+economy
+
+
+    “Apple has just announced its plans to invest a total of $350
+    billion in America, and hire another 20,000 workers.”
+
+
+      *This needs context.  *
+
+The technology giant Apple did, indeed, say after the tax cut passed
+that it would “invest”  $350 billion domestically over the next five years. But at least $275
+billion of that was simply continuing the company’s past spending
+trends. The actual amount of new investment
+<https://www.nytimes.com/2018/01/26/business/davos-world-economic-forum-trump.html>
+appears to be roughly $37 billion.
+
+/— Jim Tankersley/
+
+Video
+Advertisement
+LIVE
+00:00
+0:42
+
+<https://www.nytimes.com/video>
+
+Trump on American Energy Policy
+<https://www.nytimes.com/video/us/politics/100000005709197/trump-american-energy-policy.html?action=click&gtype=vhs&version=vhs-heading&module=vhs&region=title-area>
+
+
+By The New York Times
+//
+State of the Union 2018 By The New York Times Play Video 0:42
+
+Trump on American Energy Policy
+
+President Trump claimed to have eliminated more regulations within the
+past year than any previous administration. He also promised an embrace
+of "beautiful, clean coal."Published OnJan. 30, 2018CreditImage by Doug
+Mills/The New York Times
+
+economy
+
+
+    “Many car companies are now building and expanding plants in the
+    United States — something we have not seen for decades.”
+
+
+      *This is an exaggeration. *
+
+Yes, some car companies have announced new or expanded plants under
+Trump, but that’s hardly new or unseen “for decades.” Toyota, for
+example, opened a plant in Mississippi
+<http://toyotanews.pressroom.toyota.com/releases/toyota+begins+corolla+production+mississippi.htm>
+in 2011.
+
+There has been no surge in automotive employment
+<https://fred.stlouisfed.org/graph/?g=hYo2> under his tenure — it’s
+actually down from a year ago.
+
+/— Jim Tankersley/
+
+health care
+
+
+    “Last year, the F.D.A. approved more new and generic drugs and
+    medical devices than ever before in our history.’’
+
+
+      *True. *
+
+The Food and Drug Administration approved 1,027 generic drugs
+<https://blogs.fda.gov/fdavoice/index.php/tag/promoting-drug-competition/>
+in the 2017 fiscal year, the highest annual total in the agency’s
+history. Scott Gottlieb, the F.D.A. commissioner, also said that the
+agency approved 95 novel medical devices last year, another record.
+
+/— Robert Pear /
+
+energy
+
+
+    “We have ended the war on American energy — and we have ended the
+    war on beautiful, clean coal. We are now very proudly an exporter of
+    energy to the world.”
+
+
+      *This is misleading.*
+
+Over all, the United States is a net energy importer, although it is
+projected to be a net energy exporter sometime in the 2020s
+<https://www.eia.gov/todayinenergy/detail.php?id=29433>.
+
+A government analysis
+<https://www.eia.gov/outlooks/steo/pdf/steo_full.pdf> found that the
+United States became a net exporter of natural gas in 2017 for the first
+time since 1957, and it remains a net exporter of coal. But it is still
+a net importer of oil.
+
+While it is accurate that Mr. Trump has ordered the Environmental
+Protection Agency to roll back regulations on the burning of coal, it
+has done almost nothing to revive the industry,
+<https://www.nytimes.com/2018/01/24/business/energy-environment/coal-miners.html>
+which, economists note, was already in decline because of competition
+from cheaper sources like natural gas.
+
+/— Coral Davenport/
+
+economy
+
+
+    “Chrysler is moving a major plant from Mexico to Michigan.”
+
+
+      *Sort of. *
+
+Chrysler announced that it would move production of heavy-duty pickup
+trucks from Saltillo, Mexico, to a plant in Michigan
+<https://www.nytimes.com/2018/01/11/business/fiat-chrysler-jobs.html>.
+But a truck plant in Saltillo will remain open and be “repurposed to
+produce future commercial vehicles for global distribution,” according
+to the automaker. Other plants
+<http://media.fcanorthamerica.com/newsrelease.do?id=9117&mid=1> in
+Mexico will also continue operations.
+
+/— Linda Qiu/
+
+health care
+
+
+    “One of my greatest priorities is to reduce the price of
+    prescription drugs. In many other countries, these drugs cost far
+    less than what we pay in the United States, and it’s very, very
+    unfair.’’
+
+
+      True.
+
+Prices for brand-name prescription drugs aretypically higher in the
+United States than in other developed countries
+<https://www.nytimes.com/2018/01/02/upshot/us-health-care-expensive-country-comparison.html>,
+which regulate prices or set them through negotiations with drug
+manufacturers. Drug makers have strenuously opposed regulation of prices
+in this country. Cancer drugs and other new medicines sometimes enter
+the U.S. market with prices exceeding $50,000 a year. And a handful of
+companies have driven up the prices of some decades-old drugs whose
+patents expired years ago.
+
+/— Robert Pear /
+
+infrastructure
+
+
+    “We built the Empire State Building in just one year — isn’t it a
+    disgrace that it can now take 10 years just to get a permit approved
+    for a simple road?”
+
+
+      *Partially true, and needs context.*
+
+The Empire State Building was built in just over a year
+<http://www.esbnyc.com/explore/historical-timeline>. But construction
+time shouldn’t be compared with the time needed to get a permit (the
+design for the Empire State Building changed
+<http://www.pbs.org/wgbh/buildingbig/wonder/structure/empire_state.html>
+at least 15 times during planning and construction). The requirements
+for construction and permits are also different between roads and
+buildings, two different pieces of infrastructure.
+
+Mr. Trump is also overstating the process for building roads. While some
+bigger projects can take around 10 years to receive permits, small
+projects, like repaving a road, can take little to no time at all.
+Average wait times have ranged from three to six years
+<https://www.environment.fhwa.dot.gov/nepa/timeliness_of_nepa.aspx> over
+the past two decades, according to the Federal Highway Administration.
+
+/— Emily Cochrane /
+
+Video
+Advertisement
+LIVE
+00:00
+0:22
+
+<https://www.nytimes.com/video>
+
+Trump on Family-Based Immigration
+<https://www.nytimes.com/video/us/politics/100000005709198/trump-american-economy.html?action=click&gtype=vhs&version=vhs-heading&module=vhs&region=title-area>
+
+
+By The New York Times
+//
+State of the Union 2018 By The New York Times Play Video 0:22
+
+Trump on Family-Based Immigration
+
+President Trump laid out his plan for changes for family-based
+immigration to a smattering of boos and hisses.Published OnJan. 30,
+2018CreditImage by Gabriella Demczuk for The New York Times
+
+immigration
+
+
+    “The second pillar fully secures the border. That means building a
+    wall on the Southern border, and it means hiring more heroes like
+    C.J. to keep our communities safe.”
+
+
+      *The wall’s impact is unclear. *
+
+Homeland Security officials say a border wall would slow the influx of
+illegal immigrants and drug smugglers and help Border Patrol agents stop
+them. But it, alone, would not fully stop immigration or the flow of
+drugs
+<https://www.nytimes.com/2017/10/26/us/politics/border-wall-prototypes-unveiled.html>;
+nor would it make the border fully secure.  A majority of border crossings occurred
+<https://www.gao.gov/assets/690/682838.pdf> in places where fencing or
+walls already exist. Just 30 percent of known illegal entries took place
+in areas without border fencing.
+
+/— Ron Nixon /
+
+immigration
+
+
+    “The third pillar ends the visa lottery — a program that randomly
+    hands out green cards without any regard for skill, merit or the
+    safety of our people.”
+
+
+      *False.*
+
+The visa lottery program provides 50,000 immigrant visas to people from
+countries with low immigration rates to the United States.
+
+An 18-page guide from the State Department says applicants must have a
+high school education or two years of work experience in the past five
+years that requires “two years of training or experience.”
+
+The applicant must undergo a medical exam and cannot have a criminal
+record. Visa winners are then subjected to a lengthy background check
+that can last for months.
+
+/— Ron Nixon/
+
+immigration
+
+
+    “Under the current broken system, a single immigrant can bring in
+    virtually unlimited numbers of distant relatives.”
+
+
+      This claim is misleading.
+
+Immigrants who obtain green cards or citizenship can petition tobring in
+their relatives
+<https://www.nytimes.com/2018/01/26/us/politics/the-facts-behind-the-weaponized-phrase-chain-migration.html>.
+But that doesn’t automatically allow entry  into the United States. Anyone applying for residency must undergo
+national security and criminal background checks.
+
+The federal government also places annual caps on the number of
+immigrants’ married children and adult siblings who can sponsor for a
+visa. The system is badly backlogged; as of Nov. 1, more than 3.9
+million people
+<https://travel.state.gov/content/dam/visas/Statistics/Immigrant-Statistics/WaitingList/WaitingListItem_2017.pdf>
+were waiting in line. Some siblings of immigrants who in 2004 petitioned
+for a visa to come to the United States were just this month starting to
+have their claims processed.
+
+/— Ron Nixon /
+
+national security
+
+
+    “The coalition to defeat ISIS has liberated almost 100 percent of
+    the territory once held by these killers in Iraq and Syria.”
+
+
+      *True, but needs context*.
+
+Mr. Trump is correct that the Islamic State has been forced from most of
+its previously held territory — 98 percent — in Iraq and Syria. But he
+is reaping the advantage of a strategy
+<https://www.nytimes.com/2017/10/17/us/politics/trump-islamic-state-raqqa-fact-check.html>
+begun in the Obama administration.
+
+American-led forces had already wrested more than 13,000 square miles of
+territory from the group by the time Mr. Trump was elected in November
+2016. Things accelerated after he gave American commanders more
+authority to order airstrikes and make battlefield decisions. But the
+defeat of the caliphate does not mean the end of the Islamic State, or
+ISIS, as a movement or ideology.
+
+— /Helene Cooper and Eric Schmitt/
+
+Image
+CreditTom Brenner/The New York Times
+
+economy
+
+
+    “The stock market has smashed one record after another.”
+
+
+      *True*.
+
+The United States stock market has indeed surged since Mr. Trump
+<http://www.macrotrends.net/2482/sp500-performance-by-president> took
+office, with the S. & P. 500 stock index rising 24.7 percent and
+notching a series of record highs. By comparison, the same index was up
+26.3 percent at the same point during President Barack Obama’s
+administration in 2009 and early 2010.
+
+Back then, level of the stock market was significantly lower, reflecting
+the impact of the financial crisis in the United States and the deep
+recession that followed. Under Mr. Obama, stocks continued to recover
+and also notched a series of record highs, starting in 2013.
+
+/— Matt Phillips /
+
+trade
+
+
+    “America has also finally turned the page on decades of unfair trade
+    deals that sacrificed our prosperity and shipped away our companies,
+    our jobs, and our nation’s wealth.”
+
+
+      *This needs context.*
+
+Economists say the loss of manufacturing jobs has more to do with
+automation
+<https://www.nytimes.com/2016/12/21/upshot/the-long-term-jobs-killer-is-not-china-its-automation.html>
+and globalization than specific trade deals.
+
+Research <https://fas.org/sgp/crs/row/R42965.pdf> suggests that the
+North American Free Trade Agreement has had a negligible effect on
+American jobs. And China’s entry into the World Trade Organization in
+2001 seems to have had a more pronounced impact on factory jobs. While
+Mr. Trump has abandoned
+<https://www.nytimes.com/2017/01/23/us/politics/tpp-trump-trade-nafta.html>
+the trans-Pacific Partnership, negotiations to revamp Nafta are ongoing
+<https://www.nytimes.com/2018/01/29/us/politics/nafta-talks-conclude-in-montreal-with-signs-of-progress-and-risk.html>.
+
+
+/— Natalie Kitroeff/
+
+economy
+
+
+    “Since we passed tax cuts, roughly three million workers have
+    already gotten tax cut bonuses — many of them thousands of dollars
+    per worker.”
+
+
+      *True.*
+
+The statistic comes from a list of tax-related corporate announcements
+<https://www.atr.org/list> compiled by Americans for Tax Reform, an
+enthusiastic booster of Mr. Trump’s tax cuts. His wording is carefully
+phrased. Mr. Trump notes “many” of the announced bonuses amount to
+thousands of dollars, a number that is vague enough to be defensible.
+(He also could have said “many of them hundreds of dollars per worker”
+and been correct, as well.)
+
+/— Jim Tankersley/
+
+READ MORE: The Times is tracking companies that have made announcements
+about bonuses and other employment benefits because of the tax law
+<https://www.nytimes.com/interactive/2018/business/dealbook/tax-savings-benefits.html>.
+
+
+taxes
+
+
+    “We enacted the biggest tax cuts and reform in American history.”
+
+
+      *False. *
+
+Mr. Trump won’t stop making this claim, even though zero evidence
+supports it
+<https://www.nytimes.com/2017/11/29/us/politics/fact-check-trump-tax-cuts.html>.
+Tax cuts signed by President Ronald Reagan were larger as a share of the
+economy and in terms of their effects on federal revenues. The recently
+passed tax bill appears to rank 12th in American history, as a share of
+the economy.
+
+/— Jim Tankersley/
+
+
+    The Democratic Rebuttal
+
+Image
+Without uttering the president’s name, Representative Joseph P. Kennedy
+III chastised the Trump administration Tuesday night.CreditBrian
+Snyder/Reuters
+
+Joseph P. Kennedy III delivered the Democratic response to the State of
+the Union. Below is a fact check of his remarks.
+
+economy
+
+
+    “Top C.E.O.s making 300 times the average worker is not right.”
+
+
+      *True, but misleading. *
+
+Mr. Kennedy is most likely referring to a 2014 study
+<http://www.epi.org/publication/ceo-pay-continues-to-rise/> from the
+left-leaning Economic Policy Institute. It said that pay for chief
+executives at the top 350 American firms were about 300 times more than
+their employees.
+
+But that sample represents a small fraction of all American businesses,
+and not a very representative one. According to Bureau of Labor
+Statistics <https://www.bls.gov/oes/current/oes111011.htm> data, chief
+executives made an average salary of $194,000 in 2016, about four times
+what the average worker made.
+<https://www.bls.gov/oes/2016/may/oes_nat.htm#00-0000>
+
+/— Linda Qiu/
+
+A version of this article appears in print on January 30, 2018, on Page
+A14 of the New York edition with the headline: Assessing Trump’s Claims
+on Immigration, ISIS, the Economy and Taxes. Order Reprints
+<http://www.nytreprints.com/> | Today’s Paper
+<http://www.nytimes.com/pages/todayspaper/index.html> | Subscribe
+<https://www.nytimes.com/subscriptions/Multiproduct/lp8HYKU.html?campaignId=48JQY>
+
+  * //
+    <https://www.facebook.com/dialog/feed?app_id=9869919170&link=https%3A%2F%2Fwww.nytimes.com%2F2018%2F01%2F30%2Fus%2Fpolitics%2Ffact-check-sotu.html&smid=fb-share&name=2018%20State%20of%20the%20Union%20Fact%20Check&redirect_uri=https%3A%2F%2Fwww.facebook.com%2F>
+  * //
+    <https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.nytimes.com%2F2018%2F01%2F30%2Fus%2Fpolitics%2Ffact-check-sotu.html&text=2018%20State%20of%20the%20Union%20Fact%20Check>
+  * //
+    <mailto:?subject=NYTimes.com%3A%202018%20State%20of%20the%20Union%20Fact%20Check&body=From%20The%20New%20York%20Times%3A%0A%0A2018%20State%20of%20the%20Union%20Fact%20Check%0A%0A%20Times%20Reporters%20weigh%20in%20on%20the%20facts%2C%20falsehoods%20and%20statements%20that%20need%20context%20from%20Donald%20Trump's%20first%20State%20of%20the%20Union%0A%0Ahttps%3A%2F%2Fwww.nytimes.com%2F2018%2F01%2F30%2Fus%2Fpolitics%2Ffact-check-sotu.html>
+  * //
+
+Advertisement
+
+Trending on NYTimes <https://www.nytimes.com/>
+
+ 1.
+
+
+            Unbecoming a Trump
+
+    <https://www.nytimes.com/2018/03/22/style/vanessa-trump-divorce.html>
+ 2.
+
+
+            This Tiny Mummy Isn’t an Alien, but Its Story Is Almost as
+            Strange
+
+    <https://www.nytimes.com/2018/03/22/science/ata-mummy-alien-chile.html>
+ 3.
+
+
+            He Gambles. He Tips Staff. He Eats Alone. All the While,
+            He’s Stocking His Vegas Suite With Guns.
+
+    <https://www.nytimes.com/2018/03/22/us/las-vegas-shooting-stephen-paddock.html>
+
+
+    Site Index
+
+<https://www.nytimes.com/>
+Go to Home Page » <https://www.nytimes.com/>
+
+news
+
+  * home page <https://www.nytimes.com/>
+  * world <https://www.nytimes.com/world>
+  * U.S. <https://www.nytimes.com/national>
+  * politics <https://www.nytimes.com/politics>
+  * politics <https://mobile.nytimes.com/politics>
+  * New York <https://www.nytimes.com/nyregion>
+  * business <https://www.nytimes.com/business>
+  * tech <https://www.nytimes.com/technology>
+  * science <https://www.nytimes.com/science>
+  * sports <https://www.nytimes.com/sports>
+  * obituaries <https://www.nytimes.com/obituaries>
+  * today's paper <https://www.nytimes.com/pages/todayspaper/index.html>
+  * corrections <https://mobile.nytimes.com/corrections/>
+  * corrections <https://www.nytimes.com/corrections>
+
+opinion
+
+  * today's opinion <https://www.nytimes.com/opinion>
+  * today's opinion <https://mobile.nytimes.com/opinion>
+  * op-ed columnists <https://www.nytimes.com/topic/subject/columnists>
+  * editorials <https://www.nytimes.com/pages/opinion/index.html#editorials>
+  * editorials <https://mobile.nytimes.com/opinion/editorials>
+  * contributing writers
+    <https://www.nytimes.com/pages/opinion/index.html#contributing>
+  * op-ed Contributors
+    <https://www.nytimes.com/pages/opinion/index.html#op-ed>
+  * letters <https://www.nytimes.com/pages/opinion/index.html#letters>
+  * letters <https://mobile.nytimes.com/opinion/letters>
+  * sunday review
+    <https://www.nytimes.com/pages/opinion/index.html#sundayreview>
+  * sunday review <https://mobile.nytimes.com/opinion/sundayreview>
+  * taking note <https://www.nytimes.com/column/taking-note>
+  * video: opinion <https://www.nytimes.com/video/opinion>
+
+arts
+
+  * today's arts <https://www.nytimes.com/arts>
+  * art & design <https://www.nytimes.com/design>
+  * books <https://www.nytimes.com/books>
+  * dance <https://www.nytimes.com/dance>
+  * movies <https://www.nytimes.com/movies>
+  * music <https://www.nytimes.com/music>
+  * television <https://www.nytimes.com/television>
+  * theater <https://www.nytimes.com/theater>
+  * video: arts <https://www.nytimes.com/video/arts>
+
+living
+
+  * automobiles <https://www.nytimes.com/automobiles>
+  * automobiles <https://mobile.nytimes.com/automobiles>
+  * crossword <https://www.nytimes.com/crosswords>
+  * food <https://www.nytimes.com/dining>
+  * food <https://mobile.nytimes.com/dining>
+  * education <https://www.nytimes.com/education>
+  * fashion & style <https://www.nytimes.com/style>
+  * health <https://www.nytimes.com/health>
+  * jobs <https://www.nytimes.com/section/jobs>
+  * magazine <https://www.nytimes.com/magazine>
+  * real estate <https://www.nytimes.com/realestate>
+  * t magazine <https://www.nytimes.com/section/t-magazine>
+  * travel <https://www.nytimes.com/travel>
+  * weddings <https://www.nytimes.com/section/fashion/weddings>
+
+listings & more
+
+  * tools & services <http://www.nytimes.com/marketing/tools-and-services>
+  * N.Y.C. events guide <https://www.nytimes.com/events>
+  * multimedia <https://www.nytimes.com/pages/multimedia/index.html>
+  * photography <https://mobile.nytimes.com/blogs/lens>
+  * photography <https://lens.blogs.nytimes.com/>
+  * video <https://www.nytimes.com/video>
+  * NYT store <https://www.nytimes.com/store>
+  * times journeys <https://www.nytimes.com/times-journeys>
+  * manage my account
+    <https://myaccount.nytimes.com/membercenter/myaccount.html>
+
+
+      news
+
+  * home page <https://www.nytimes.com/>
+  * world <https://www.nytimes.com/world>
+  * U.S. <https://www.nytimes.com/national>
+  * politics <https://www.nytimes.com/politics>
+  * politics <https://mobile.nytimes.com/politics>
+  * New York <https://www.nytimes.com/nyregion>
+  * business <https://www.nytimes.com/business>
+  * tech <https://www.nytimes.com/technology>
+  * science <https://www.nytimes.com/science>
+  * sports <https://www.nytimes.com/sports>
+  * obituaries <https://www.nytimes.com/obituaries>
+  * today's paper <https://www.nytimes.com/pages/todayspaper/index.html>
+  * corrections <https://mobile.nytimes.com/corrections/>
+  * corrections <https://www.nytimes.com/corrections>
+
+
+      opinion
+
+  * today's opinion <https://www.nytimes.com/opinion>
+  * today's opinion <https://mobile.nytimes.com/opinion>
+  * op-ed columnists <https://www.nytimes.com/topic/subject/columnists>
+  * editorials <https://www.nytimes.com/pages/opinion/index.html#editorials>
+  * editorials <https://mobile.nytimes.com/opinion/editorials>
+  * contributing writers
+    <https://www.nytimes.com/pages/opinion/index.html#contributing>
+  * op-ed Contributors
+    <https://www.nytimes.com/pages/opinion/index.html#op-ed>
+  * letters <https://www.nytimes.com/pages/opinion/index.html#letters>
+  * letters <https://mobile.nytimes.com/opinion/letters>
+  * sunday review
+    <https://www.nytimes.com/pages/opinion/index.html#sundayreview>
+  * sunday review <https://mobile.nytimes.com/opinion/sundayreview>
+  * taking note <https://www.nytimes.com/column/taking-note>
+  * video: opinion <https://www.nytimes.com/video/opinion>
+
+
+      arts
+
+  * today's arts <https://www.nytimes.com/arts>
+  * art & design <https://www.nytimes.com/design>
+  * books <https://www.nytimes.com/books>
+  * dance <https://www.nytimes.com/dance>
+  * movies <https://www.nytimes.com/movies>
+  * music <https://www.nytimes.com/music>
+  * television <https://www.nytimes.com/television>
+  * theater <https://www.nytimes.com/theater>
+  * video: arts <https://www.nytimes.com/video/arts>
+
+
+      living
+
+  * automobiles <https://www.nytimes.com/automobiles>
+  * automobiles <https://mobile.nytimes.com/automobiles>
+  * crossword <https://www.nytimes.com/crosswords>
+  * food <https://www.nytimes.com/dining>
+  * food <https://mobile.nytimes.com/dining>
+  * education <https://www.nytimes.com/education>
+  * fashion & style <https://www.nytimes.com/style>
+  * health <https://www.nytimes.com/health>
+  * jobs <https://www.nytimes.com/section/jobs>
+  * magazine <https://www.nytimes.com/magazine>
+  * real estate <https://www.nytimes.com/realestate>
+  * t magazine <https://www.nytimes.com/section/t-magazine>
+  * travel <https://www.nytimes.com/travel>
+  * weddings <https://www.nytimes.com/section/fashion/weddings>
+
+
+      more
+
+  * tools & services <http://www.nytimes.com/marketing/tools-and-services>
+  * N.Y.C. events guide <https://www.nytimes.com/events>
+  * multimedia <https://www.nytimes.com/pages/multimedia/index.html>
+  * photography <https://mobile.nytimes.com/blogs/lens>
+  * photography <https://lens.blogs.nytimes.com/>
+  * video <https://www.nytimes.com/video>
+  * NYT store <https://www.nytimes.com/store>
+  * times journeys <https://www.nytimes.com/times-journeys>
+  * manage my account
+    <https://myaccount.nytimes.com/membercenter/myaccount.html>
+
+
+      Subscribe
+
+  * home delivery <https://www.nytimes.com/hdleftnav>
+  * digital subscriptions <https://www.nytimes.com/digitalleftnav>
+  * Crossword <https://www.nytimes.com/crosswords>
+
+  * email newsletters <https://www.nytimes.com/marketing/newsletters>
+  * alerts <https://myaccount.nytimes.com/mem/tnt.html>
+  * corporate subscriptions <https://www.nytimes.com/corporateleftnav>
+  * education rate <https://www.nytimes.com/educationleftnav>
+
+  * mobile applications <https://www.nytimes.com/services/mobile/index.html>
+  * replica edition
+    <http://eedition.nytimes.com/cgi-bin/signup.cgi?cc=37FYY>
+
+
+    Site Information Navigation
+
+  * © 2018 The New York Times Company
+    <https://www.nytimes.com/content/help/rights/copyright/copyright-notice.html>
+
+  * Contact Us <https://myaccount.nytimes.com/membercenter/feedback.html>
+  * Work with us <http://www.nytco.com/careers>
+  * Advertise <http://nytmediakit.com/>
+  * Your Ad Choices
+    <https://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html#pp>
+  * Privacy <https://www.nytimes.com/privacy>
+  * Terms of Service
+    <https://www.nytimes.com/ref/membercenter/help/agree.html>
+  * Terms of Sale
+    <https://www.nytimes.com/content/help/rights/sale/terms-of-sale.html>
+  * Site Map <http://spiderbites.nytimes.com/>
+  * Help <https://mobile.nytimes.com/help>
+  * Help <https://www.nytimes.com/membercenter/sitehelp.html>
+  * Subscriptions
+    <https://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=37WXW>
+
+Subscribe now.Just $15.99 $9.99 a month.
+
+You have *4 free articles* remaining.
+
+Subscribe
+
+Collapse
+
+SEE MY OPTIONS
+
+One subscription.Endless discovery.
+
+For just $15.99 $9.99 a month.
+
+Subscribe
+ <https://www.nytimes.com/subscription/multiproduct/lp8HYKU.html?campaignId=6YFYW&return_url=https%3A%2F%2Fwww.nytimes.com%2F2018%2F01%2F30%2Fus%2Fpolitics%2Ffact-check-sotu.html>
